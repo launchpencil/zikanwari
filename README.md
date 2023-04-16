@@ -1,3 +1,7 @@
+# このリポジトリは移行されました。[移行先](https://github.com/zikanwari/zikanwari)
+
+---
+
 # zikanwari
 
 クラスメイト用に雑に作ったWebアプリ（とそのなにか）
